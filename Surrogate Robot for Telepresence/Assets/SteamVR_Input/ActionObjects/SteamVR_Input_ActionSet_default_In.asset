@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 536b31df1871003438064a1d14ec6843, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 7ab9ab0daf894844ba257feda4687cbc, type: 2}
+  - {fileID: 11400000, guid: 9eaa26ad8a770fb4b99f4dcdbc0b3765, type: 2}
+  - {fileID: 11400000, guid: 285d7154fcdf07d46bd2424830882112, type: 2}
+  - {fileID: 11400000, guid: 9f30e29cf56a4d14d98f5ac75472c0e1, type: 2}
+  - {fileID: 11400000, guid: f6d4f1977f4802a4dbcc1cd305754996, type: 2}
+  - {fileID: 11400000, guid: aba24541658b1fb4a994ae025290990a, type: 2}
+  - {fileID: 11400000, guid: a9658265758c097498a349144f279664, type: 2}
+  - {fileID: 11400000, guid: d9b202cf87fd4c043840d9f5b09be583, type: 2}
+  - {fileID: 11400000, guid: 89c32e496f490d24aa992e12d53ce989, type: 2}
+  - {fileID: 11400000, guid: 093e26086c9688b45a50908c004b0807, type: 2}
+  - {fileID: 11400000, guid: e6df56e7ddf76fb4c9ba6a6b827d832f, type: 2}
+  - {fileID: 11400000, guid: f7e21da4cfd68224db7069b23e43a687, type: 2}
+  InteractUI: {fileID: 11400000, guid: 7ab9ab0daf894844ba257feda4687cbc, type: 2}
+  Teleport: {fileID: 11400000, guid: 9eaa26ad8a770fb4b99f4dcdbc0b3765, type: 2}
+  GrabPinch: {fileID: 11400000, guid: 285d7154fcdf07d46bd2424830882112, type: 2}
+  GrabGrip: {fileID: 11400000, guid: 9f30e29cf56a4d14d98f5ac75472c0e1, type: 2}
+  Pose: {fileID: 11400000, guid: f6d4f1977f4802a4dbcc1cd305754996, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: aba24541658b1fb4a994ae025290990a, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: a9658265758c097498a349144f279664, type: 2}
+  Squeeze: {fileID: 11400000, guid: d9b202cf87fd4c043840d9f5b09be583, type: 2}
+  ShowFloor2UI: {fileID: 11400000, guid: 89c32e496f490d24aa992e12d53ce989, type: 2}
+  Menu: {fileID: 11400000, guid: 093e26086c9688b45a50908c004b0807, type: 2}
+  ChooseGrid: {fileID: 11400000, guid: e6df56e7ddf76fb4c9ba6a6b827d832f, type: 2}
+  ArInteraction: {fileID: 11400000, guid: f7e21da4cfd68224db7069b23e43a687, type: 2}
